@@ -1,27 +1,34 @@
-<h1 align="center">Complete Python Roadmap <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height=40"/> </a> </h1>
+<h1 align="center">Python Libraries for Data Analysis and Data Science Roadmap <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
-**I am sharing Python lessons from scratch to intermediate with practice sets which I have studied into my Journey of Data Science.** 
+**I am sharing lessons in various Python Libraries from scratch to intermediate including practice sets which were useful into my journey of Data Science.** 
 
-For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
+For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: & <code>[Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑
 
-### Overview of Python Programming
+### Overview of Python Libraries
 
-Python is an object-oriented programming language that was created with an emphasis on readability and simplicity. It has been used as the language of choice for Machine Learning, Artificial Intelligence, Web Application Development, and more recently Data Science - Python's strength is its versatility. 
- 
-Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks.
- 
-**What can you do with Python? Some things include:**
+Python libraries are pre-written programs that allow developers to program more efficiently. They are easy to use and can be found in many different frameworks. These libraries provide an API (application programming interface) which makes it easy for developers to use them with their own software programs.
 
-- Data analysis and machine learning
+Python libraries are a great way to data analysis and machine learning. They provide powerful functionality and flexibility for any task, regardless of the type of data. Python libraries make it easy for developers and data scientists to prototype and scale their models, regardless of their size or complexity.
 
-- Web development
+The Python programming language comes with a built-in library called the “Standard Library” which has all the necessary modules for tasks like input/output, data manipulation, text processing, packaging, and more.
 
-- Automation or scripting
+Making use of the Python Standard Library is not enough for many developers because it cannot accommodate all their needs. That is why there are also Python Libraries that can be imported in order to make them more efficient when accomplishing specific tasks.
 
-- Software testing and prototyping
+## Technologies used ⚙️
 
-- Many more Everyday tasks
- 
+* <a href="https://github.com/mrankitgupta/Python-Lessons">Python</a> <a href="https://github.com/mrankitgupta/Python-Lessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
+
+* <a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python">Statistics</a><a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
+
+##### Python Libraries : 
+* <a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises">Pandas</a><a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> 
+
+* <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> 
+
+* <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> 
+
+* <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> 
+
 
 <h2 align="left">Certifications 📜 🎓 ✔️</h2>
 
@@ -31,8 +38,8 @@ Since it’s relatively easy to learn, Python has been adopted by many non-progr
 
 - [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle
  
-- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) - by Great Learning
-  
+- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) - by Great Learning 
+
 - [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
 
 - [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
@@ -44,8 +51,6 @@ Since it’s relatively easy to learn, Python has been adopted by many non-progr
 
 <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
 
-<code>[Library Management System using Python on Django](https://github.com/mrankitgupta/Library_Management_System_Django)</code>  👨‍💻 
-
 <code>[Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)</code> 📊
 
 <code>[Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)</code> 📊
@@ -53,45 +58,71 @@ Since it’s relatively easy to learn, Python has been adopted by many non-progr
 <code>[Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)</code> 📊
  
 <code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
-
-<code>[Python Libraries for Data Science Roadmap](https://github.com/mrankitgupta/Python-Libraries-Roadmap)</code> 🗂️
  
-## Python Lessons for Data Science <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
-
-Python has become a staple in data science, allowing data analysts and other professionals to use the language to conduct complex statistical calculations, create data visualizations, build machine learning algorithms, manipulate and analyze data, and complete other data-related tasks.
-
- Python can build a wide range of different data visualizations, like line and bar graphs, pie charts, histograms, and 3D plots. Python also has a number of libraries that enable coders to write programs for data analysis and machine learning more quickly and efficiently.
+<code>[Complete Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑
  
-|**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+## Python Libraries for Data Analysis and Data Science <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
+
+Python has become a staple in data science, allowing data analysts and other professionals to use the language to conduct complex statistical calculations, create data visualizations, build machine learning algorithms, manipulate and analyze data, and complete other data-related tasks more quickly and efficiently.
+
+There are many different libraries in Python, which provide useful data analysis tools for scientists and engineers.These libraries can be used to analyze, graph and visualize data. They can also be used to create complex mathematical equations and 3D animations.
+
+**Prerequisite:** <code>[Complete Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑 
+
+Python has a number of libraries, like :
+
+<h3 align="center"> <a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises">Pandas</a><a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> </h3>
+
+|**Sr.No. 🔢**|**Pandas Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
 |------|--------------------|---------------------|---------------------|
-|1| **Python Basics** - Features Applications, Python 2 vs Python 3, Libraries uses, Interpreter Prompt, Script mode programming, IDEs, Features of an IDE, Compiler vs Interpreter, Pycharm - Featues, Important tools, Useful Plugins | [JavaTpoint](https://www.javatpoint.com/python-tutorial)| [Exercise 1](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%201%20-%20Introduction) | 
-|2| Modules, Comments, Pip, Docstrings | [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)| [Exercise 2](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%202%20-%20Module) | 
-|3| Indentation, Packages in Python, Modules vs Packages | [YouTube 1](https://www.youtube.com/watch?v=WGJJIrtnfpk)| |
-|4| Variables, Declaring & Assigning Values, Object references, Object identity, Variable names, Multiple Assignment, Variable Types | [Youtube 2](https://www.youtube.com/watch?v=EyEqWFvLDT8)| [Exercise 3](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%203%20-%20Variables) | 
-|5| Fundamentals of Python - Tokens, Keywords, Literals, Operators, Identifiers & Comments | [Python Lessons for Practice](https://github.com/mrankitgupta/PythonLessons)| [Exercise 4](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%204%20-%20Comments) | 
-|6| Data Types - Numbers, Sequence Type, Dictionary, Set, Type Conversion | [Data Analysis with Python - by IBM](https://github.com/mrankitgupta)| [Exercise 5](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%205%20-%20Data%20Types) | 
-|7| **Collection Module** - String, List & Tuples, Sets, Dictionary & Different containers provided by collection module | [Data Visualization with Python](https://github.com/mrankitgupta)| [Exercise 6](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%206%20-%20Containers) | 
-|8| **Control Flows** - Indentation, If-Else & ELIF Statements, For, While & Nested Loops, Control statements & Patterns | [Databases and SQL for Data Science with Python - by IBM](https://github.com/mrankitgupta)| [Exercise 7](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%207%20-%20Control%20Flows) | 
-|9| **Functions** - Types of Functions, Arguments & it's Types, Scope of Variables, Built-in Functions | [Statistics for Data Science with Python - by IBM](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url)| [Exercise 8](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%208%20-%20Functions) | 
-|10| **Functions** - Lambda Functions, Decorators, Generators | [HackerRank - Practice](https://www.hackerrank.com/mrankitgupta)| 
-|11| **Arrays** | [Code With Harry - Python Notes & Tutorial](https://www.codewithharry.com/videos/python-tutorial-easy-for-beginners)| [Exercise 9](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%209%20-%20Arrays) | 
-|12| **Hash Tables / Hash Map** | [Python Cheatsheet - Code With Harry](https://www.codewithharry.com/blogpost/python-cheatsheet)| [Exercise 10](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%2010%20-%20Hash%20Table%20or%20Hash%20Map) | 
-|13| **OOPs Concept** - Class & Objects, Constructors, Destructors, Inheritance | [Basic Python Projects - YouTube](https://www.youtube.com/playlist?list=PLu0W_9lII9agqZuv_XJen_BEHycIh-FmG)| [Exercise 11](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%2011%20-%20OOPs%20Concept) | 
-|14| **OOPs Concept** - Polymorphism, Encapsulation | [Project 1: Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)| 
-|15| **OOPs Concept** - Data Abstraction, Python Super Function |  [Project 2: Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)|
-|16| **Exception Handling, File Handling** | | [Exercise 12](https://github.com/mrankitgupta/Python-Lessons/tree/main/Python%20Exercises/Exercise%2012%20-%20Exception%20Handling) | 
-|17| **Unit Testing in Python** | :white_check_mark:|
+|1| Basics, Data Structures - Series, DataFrame, Panel | [Pandas Course - by Kaggle](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) | [Exercise 1](https://www.kaggle.com/code/mrankitgupta/pandas-1-exercise-creating-reading-and-writing/notebook) |
+|2| **Summary Functions and Maps, Operations** - Slicing, Merging | [Kaggle Notebooks on Pandas](https://www.kaggle.com/mrankitgupta/code) | [Exercise 2](https://www.kaggle.com/code/mrankitgupta/pandas-2exercise-indexing-selecting-assigning) |
+|3| **Operations** - Joining, Concatenation | [GitHub Repo on Pandas](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises) | [Exercise 3](https://www.kaggle.com/code/mrankitgupta/pandas-3-exercise-summary-functions-and-maps) |
+|4| Changing Index & Column Header, Data Munging | [JavaTpoint](https://www.javatpoint.com/python-pandas)| [Exercise 4](https://www.kaggle.com/code/mrankitgupta/pandas-4-exercise-grouping-and-sorting) |
+|5| Grouping & Sorting, Data Types & Missing Values | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=30498s)| [Exercise 5](https://www.kaggle.com/code/mrankitgupta/pandas-5-exercise-data-types-and-missing-values) |
+|6| Renaming and Combining | [TutorialsPoint](https://www.tutorialspoint.com/python_pandas/index.htm)| [Exercise 6](https://www.kaggle.com/code/mrankitgupta/pandas-6-exercise-renaming-and-combining) |
+|7| Pandas-Matplotlib | :white_check_mark:| |
+  
+<h3 align="center"> <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> 
+ </h3>
+ 
+|**Sr.No. 🔢**|**NumPy Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+|------|--------------------|---------------------|---------------------|
+|1| Basics, NumPy v/s MATLAB, NumPy v/s List, NdArray, Datatypes, Array Attributes | [NumPy Tutorial - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN)| [Exercise 1](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%201%20-%20NdArray) |
+|2| NdArray, Datatypes, Array Attributes | [JavaTpoint](https://www.javatpoint.com/numpy-tutorial)| [Exercise 2](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%202%20-%20Indexing%20%26%20Slicing) |
+|3| Indexing & Slicing, Array Creation | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=27503s), [TutorialsPoint](https://www.tutorialspoint.com/numpy/index.htm) | [Exercise 3](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%203%20-%20NumPy%20Broadcasting) |
+|4| Broadcasting, Operations, Functions | [TutorialsPoint](https://www.tutorialspoint.com/numpy/index.htm) | [Exercise 4](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%204%20-%20NumPy%20Operations) |
+|5| Mathematics, Matrix, NumPy-Matplotlib | :white_check_mark:| [Exercise 5](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%205%20-%20NumPy%20Matrix) & [Exercise 6](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%206%20-%20NumPy-Matplotlib) |
 
-**Prerequisite:** <code>[Python Libraries for Data Science Roadmap](https://github.com/mrankitgupta/Python-Libraries-Roadmap)</code> 🗂️
- 
+<h3 align="center"> <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> </h3>
+
+|**Sr.No. 🔢**|**Matplotlib Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+|------|--------------------|---------------------|---------------------|
+|1| Basics, Data Visualization, Architecture, Concepts | [Matplotlib Course - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW)| [Exercise 1](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%201%20-%20Line%20Graph) |
+|2| Pyplot & Subplot | [JavaTpoint](https://www.javatpoint.com/matplotlib) | [Exercise 2](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%202%20-%20Bar%20Graph) |
+|3| 7 Types of plots | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=32953s)| [Exercise 3](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%203%20-%20Histogram) & [Exercise 4](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%204%20-%20Pie%20Chart) |
+|4| Multiple plots | [TutorialsPoint](https://www.tutorialspoint.com/matplotlib/index.htm) :white_check_mark:| [Exercise 5](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%205%20-%20Scatter%20Plot) & [Exercise 6](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%206%20-%203D%20Plot) |
+
+<h3 align="center"> <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> </h3>
+
+|**Sr.No. 🔢**|**Seaborn Lessons 📕**| **Reference Links :link:**|
+|------|--------------------|---------------------|
+|1| Style functions | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=34338s) |
+|2| Color palettes | [TutorialsPoint](https://www.tutorialspoint.com/seaborn/index.htm) |
+|2| Distribution plots | [JavaTpoint](https://www.javatpoint.com/python-seaborn-library) |
+|2| Categorical plots |  |
+|2| Regression plots |  |
+|3| Axis grid objects | :white_check_mark:|
+
+
 ### Projects in Python
- 
+
 |**Sr.No. 🔢**|**Projects 👨‍💻**| **Reference Links :link:**|
 |------|--------------------|---------------------|
 |**Python Project 1**| Spotify Data Analysis using Python | [GitHub Project](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python) & [Kaggle Notebook](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project) |
 |**Python Project 2**| Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
- 
- 
+
+
 ## Useful sites to learn Coding in Python  :link:
 
 ### YouTube Channels:
@@ -125,4 +156,3 @@ Python has become a staple in data science, allowing data analysts and other pro
 <a href="https://www.instagram.com/MrAnkitGupta_" target="blank"><img align="center" src="https://img.shields.io/badge/-@MrAnkitGupta_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/MrAnkitGupta_" alt="MrAnkitGupta_" height="20" width="110" /></a>
 <a href="https://bio.link/AnkitGupta" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://bio.link/AnkitGupta" alt="AnkitGupta" height="20" width="90" /></a>
 <a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
-  
